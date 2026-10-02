@@ -101,3 +101,10 @@ No confidential employer or customer information should be uploaded to GitHub.
 ---
 
 **MoneyKiBaatein | Practical Accounting & Finance Learning**
+## Practice Workbook
+
+The practical Excel workbook for this project is available below:
+
+[Download Customer Ageing Practice Workbook](./MoneyKiBaatein_Customer_Ageing_Practice.xlsx)
+
+The workbook contains fictional customer data for learning and portfolio purposes.
