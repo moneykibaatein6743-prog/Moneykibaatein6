@@ -1,0 +1,6 @@
+Invoice No,Customer,Supply Type,Taxable Value,GST Rate,Tax Type
+INV-001,ABC Traders,B2B,50000,18%,CGST + SGST
+INV-002,XYZ Pvt Ltd,B2B,75000,18%,IGST
+INV-003,Retail Customer,B2C,20000,18%,CGST + SGST
+INV-004,PQR Ltd,B2B,100000,12%,IGST
+INV-005,LMN Traders,B2B,40000,5%,CGST + SGST
