@@ -107,3 +107,10 @@ No confidential employer or client information should be uploaded to GitHub.
 ---
 
 **MoneyKiBaatein | Practical Accounting & Finance Learning**
+## Practice Workbook
+
+The practical Excel workbook for this project is available below:
+
+[Download Vendor Reconciliation Practice Workbook](./MoneyKiBaatein_Vendor_Reconciliation_Practice.xlsx)
+
+The workbook contains fictional data for learning and portfolio purposes.
